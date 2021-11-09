@@ -64,17 +64,6 @@ Your commit message should read something like: <br>
 
 ---
 
-## Requirements
-
-Inside of tonight's `homework` folder:
-1. An `index.html`, `projects.html`, and `style.css` connected with all of the styled elements listed above.
-
-## Submission Guidelines
-- Pull Request must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-11-8/template_pull_request)
-
-
----
-
 ## Bonus
 
 1. Insert a video of grumpy cat's work or his favorite YouTube video ('iframe' tag)
