@@ -16,7 +16,7 @@ This is what he wants you to include and do for his resume:
 - have an `index.html` file
 - have an `main.css` file that is linked to the `index.html` file
 - have HTML `boilerplate` code for `index.html`
-  - _HINT:_ in your `index.html` file type `html` and press tab. A few basic HTML tags should populate your file, including `head` and `body`
+  - _HINT:_ in your `index.html` file type `html` or `!` and press tab. A few basic HTML tags should populate your file, including `head` and `body`
 - Include:
   - at least one header
   - navigation (these can be dummy links that don't go anywhere yet)
